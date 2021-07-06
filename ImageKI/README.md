@@ -1,0 +1,1 @@
+This directory will be used to house the actual deep learning algorythm
